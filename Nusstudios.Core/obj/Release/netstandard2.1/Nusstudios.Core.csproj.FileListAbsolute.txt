@@ -1,0 +1,16 @@
+/Users/patrik.nusszer/Projects/Nusstudios.Core/Nusstudios.Core/bin/Release/netstandard2.1/Nusstudios.Core.deps.json
+/Users/patrik.nusszer/Projects/Nusstudios.Core/Nusstudios.Core/bin/Release/netstandard2.1/Nusstudios.Core.dll
+/Users/patrik.nusszer/Projects/Nusstudios.Core/Nusstudios.Core/bin/Release/netstandard2.1/Nusstudios.Core.pdb
+/Users/patrik.nusszer/Projects/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.AssemblyInfoInputs.cache
+/Users/patrik.nusszer/Projects/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.AssemblyInfo.cs
+/Users/patrik.nusszer/Projects/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.dll
+/Users/patrik.nusszer/Projects/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.pdb
+/Users/patrik.nusszer/Documents/Projects/C#/Visual Studio 2019/dotNET Standard 2.1/Nusstudios.Core/1.1/Source/Nusstudios.Core/Nusstudios.Core/bin/Release/netstandard2.1/Nusstudios.Core.deps.json
+/Users/patrik.nusszer/Documents/Projects/C#/Visual Studio 2019/dotNET Standard 2.1/Nusstudios.Core/1.1/Source/Nusstudios.Core/Nusstudios.Core/bin/Release/netstandard2.1/Nusstudios.Core.dll
+/Users/patrik.nusszer/Documents/Projects/C#/Visual Studio 2019/dotNET Standard 2.1/Nusstudios.Core/1.1/Source/Nusstudios.Core/Nusstudios.Core/bin/Release/netstandard2.1/Nusstudios.Core.pdb
+/Users/patrik.nusszer/Documents/Projects/C#/Visual Studio 2019/dotNET Standard 2.1/Nusstudios.Core/1.1/Source/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.csprojAssemblyReference.cache
+/Users/patrik.nusszer/Documents/Projects/C#/Visual Studio 2019/dotNET Standard 2.1/Nusstudios.Core/1.1/Source/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.AssemblyInfoInputs.cache
+/Users/patrik.nusszer/Documents/Projects/C#/Visual Studio 2019/dotNET Standard 2.1/Nusstudios.Core/1.1/Source/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.AssemblyInfo.cs
+/Users/patrik.nusszer/Documents/Projects/C#/Visual Studio 2019/dotNET Standard 2.1/Nusstudios.Core/1.1/Source/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.csproj.CoreCompileInputs.cache
+/Users/patrik.nusszer/Documents/Projects/C#/Visual Studio 2019/dotNET Standard 2.1/Nusstudios.Core/1.1/Source/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.dll
+/Users/patrik.nusszer/Documents/Projects/C#/Visual Studio 2019/dotNET Standard 2.1/Nusstudios.Core/1.1/Source/Nusstudios.Core/Nusstudios.Core/obj/Release/netstandard2.1/Nusstudios.Core.pdb
